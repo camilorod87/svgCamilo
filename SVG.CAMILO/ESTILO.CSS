@@ -1,0 +1,21 @@
+body
+{
+background-color: #585858;
+}
+
+button
+{
+background:yellow;
+width:200px; 
+height: 80px; 
+font-size: 20px;
+border-radius:40px;
+border-color: black;
+border-bottom: black;
+}
+h2,h1,h4
+{
+	color: #D7DF01;
+	font-size: 25px;
+}
+
